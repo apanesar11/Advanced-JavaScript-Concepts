@@ -1,1 +1,1 @@
-My notes on advanced javascript concepts.
+Notes on advanced javascript concepts.
